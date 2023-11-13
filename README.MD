@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Bash, Python, Java, MySQL**
 
-- 📫 How to reach me **raiin@terrorist.services or rainjava on Discord**
+- 📫 How to reach me **raiin@terrorist.services or overdoesforme on Discord**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
